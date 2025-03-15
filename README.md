@@ -1,41 +1,31 @@
-Recriando Página do Discord
+**Recriando Página do Discord**
 
 Este projeto tem como objetivo a recriação de uma página inspirada no site do Discord, aplicando os conceitos e técnicas estudadas no curso de HTML e CSS. Durante o desenvolvimento, foram utilizadas abordagens modernas para estilização e estruturação da página, garantindo responsividade e um design bem estruturado.
 
-🔧 Tecnologias Utilizadas
+**🔧 Tecnologias Utilizadas**
 
-HTML5: Estrutura da página com boas práticas de semântica.
+* **HTML5:** Estrutura da página com boas práticas de semântica.
+* **CSS3:** Estilização com foco em responsividade.
+* **Flexbox e Grid:** Para organização e alinhamento dos elementos.
+* **Media Queries:** Para adaptar o layout em diferentes tamanhos de tela.
+* **VSCode:** Editor de código utilizado no desenvolvimento.
 
-CSS3: Estilização com foco em responsividade.
+**📌 Funcionalidades e Aprendizados**
 
-Flexbox e Grid: Para organização e alinhamento dos elementos.
+* Estruturação semântica do HTML.
+* Utilização de **display**: **flex** e **grid** para organização dos elementos.
+* Aplicabilidade de **media queries** para tornar a página responsiva.
+* Prática com design inspirado em um site real.
 
-Media Queries: Para adaptar o layout em diferentes tamanhos de tela.
+**🚀 Como Executar o Projeto**
 
-VSCode: Editor de código utilizado no desenvolvimento.
-
-📌 Funcionalidades e Aprendizados
-
-Estruturação semântica do HTML.
-
-Utilização de display: flex e grid para organização dos elementos.
-
-Aplicabilidade de media queries para tornar a página responsiva.
-
-Prática com design inspirado em um site real.
-
-🚀 Como Executar o Projeto
-
-Clone este repositório
+**Clone este repositório**
 
 git clone https://github.com/misael-sgomes/recriando-page-discord.git
 
-Acesse a pasta do projeto
+**Acesse a pasta do projeto**
 
 cd recriando-page-discord
-
-
-Abra o arquivo index.html no navegador
 
 🖼️ Demonstração
 
