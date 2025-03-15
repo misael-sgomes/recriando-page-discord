@@ -39,6 +39,6 @@ Abra o arquivo index.html no navegador
 
 🖼️ Demonstração
 
-Acesse o projeto online pelo GitHub Pages: Clique aqui
+Acesse o projeto online pelo GitHub Pages: [Clique aqui](https://misael-sgomes.github.io/recriando-page-discord/)
 
 Desenvolvido com 💙 durante o aprendizado de HTML e CSS.
