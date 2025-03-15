@@ -1,0 +1,139 @@
+@import url(reset.css);
+
+header {
+    display: grid;
+    align-content: center;
+    align-items: center;
+    background-image: url(./images/Header-Background-mobile.png);
+    background-size: cover;
+    height: 506px;
+    color: #FFFFFF;
+}
+
+header div {
+    display: grid;
+    gap: 24px;
+    padding: 0 24px 0 24px;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-family: 'Luckiest Guy', sans-serif;
+    font-weight: 400;
+    font-size: 2rem;
+}
+
+h2{
+    font-weight: 800;
+    font-size: 1.5rem;    
+    color: #23272A;
+}
+
+#buttons-content {
+    padding: 0;
+}
+
+button {
+    border-radius: 28px;
+    height: 3.5rem;
+    border: none;
+    color: #23272A;
+}
+
+#button-2 {
+    background-color: #23272A;
+    color: #FFFFFF;
+}
+
+section {
+    display: grid;
+    padding: 40px 24px;
+    gap: 27px;
+}
+
+.rodape-desktop {
+    display: none;
+}
+
+.rodape-mobile {
+    display: block;
+}
+
+footer {
+    display: grid;
+    background-color: #23272A;
+    align-content: center;
+    justify-content: center;
+    height: 140px;
+}
+
+@media (min-width: 767px){
+    header {
+        background-image: url(./images/Header\ Background.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        text-align: center;
+    }
+
+    header div {
+        width: 757px;
+        margin: auto;
+    }
+
+    h1 {
+        font-size: 3.5rem;
+    }
+
+    #buttons-content {
+        display: flex;
+        justify-content: center;
+    }
+
+    button {
+        width: 205px;
+    }
+
+    #button-2 {
+        width: 281px;
+    }
+
+    h2 {
+        font-size: 2.5rem;
+    }
+
+    section {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    section span {
+        width: 348px;
+    }
+
+    .image-inverse {
+        flex-direction: row-reverse;
+    }
+
+    .image-column {
+        display: grid;
+        justify-items: center;
+        text-align: center;
+    }
+
+    .image-column span {
+        width: 782px;
+    }
+
+    .image-desktop {
+        display: block;
+    }
+
+    .image-mobile {
+        display: none;
+    }
+
+    footer {
+        height: 134px;
+    }
+}
