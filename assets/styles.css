@@ -51,11 +51,11 @@ section {
     gap: 27px;
 }
 
-.rodape-desktop {
+.image-desktop {
     display: none;
 }
 
-.rodape-mobile {
+.image-mobile {
     display: block;
 }
 
